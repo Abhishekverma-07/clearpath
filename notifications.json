@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {
+      "id": "math-science-accessible-01",
+      "title": "Mathematics & Science Accessibility Practice",
+      "message": "A new accessible practice test with semantic mathematical equations is available.",
+      "availableAt": "2026-09-30T18:00:00+05:30",
+      "testKey": "math-accessible"
+    }
+  ]
+}
